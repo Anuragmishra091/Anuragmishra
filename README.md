@@ -11,7 +11,7 @@ AI/ML Engineer
 💡 Let's connect and explore the endless possibilities of AI together!
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anuragknmishra91@gmail.com](mailto:anuragknmishra91@gmail.com)
-* 🧠  I'm learning Rust programming language
+* 🧠  I'm learning LLM models.
 * 🤝  I'm open to collaborating on Machine learning projects
 
 ### Skills
